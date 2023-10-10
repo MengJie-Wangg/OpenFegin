@@ -1,0 +1,9 @@
+
+strategymap:
+  1:
+    subkey1: value1
+    subkey2: value2
+    subkey3: value3
+  2:
+    subkey1: value1
+    subkey2: value2
